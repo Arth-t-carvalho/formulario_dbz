@@ -1,0 +1,32 @@
+
+
+h1{
+    color:#DBA61F ;
+    border-style: dotted;
+    text-align: center;
+    font-family: cursive;
+}
+body{
+    background-color: #4B0082;
+    background-image:url(../_imagens/gogeta3.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+label{
+    color: white;
+}
+
+fieldset{
+    border: solid #FFD900 3px ;
+    color: white;
+}
+
+.input{
+    width: 1000px;
+    border-radius: 8px;
+}
+
+.input2{
+    width: 500px;
+    border-radius: 8px;
+}
