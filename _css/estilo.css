@@ -10,7 +10,8 @@ body{
     background-color: #4B0082;
     background-image:url(../_imagens/gogeta3.png);
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: top right;
+    background-size: 15%;
 }
 label{
     color: white;
@@ -30,3 +31,10 @@ fieldset{
     width: 500px;
     border-radius: 8px;
 }
+
+    .botoes{
+      color: white; 
+      background-color: #9932CC; 
+      border-radius: 7px;
+      border:  #4B0082;
+    }
